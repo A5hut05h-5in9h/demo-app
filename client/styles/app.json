@@ -1,0 +1,21 @@
+module.exports = {
+  'heading': {
+    'textAlign': 'center',
+    'color': '#202D3E'
+  },
+  'fab': {
+		'position':'fixed',
+		'bottom': '20px',
+		'right': '15px',
+		'zIndex': 1,
+	},
+  'fab2': {
+		'position':'fixed',
+		'bottom': '80px',
+		'right': '15px',
+		'zIndex': 1,
+	},
+  'mandatoryField': {
+    'color': '#990000'
+  }
+}
